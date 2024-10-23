@@ -5,3 +5,4 @@ third changed
 
 hot-fix changed
 !!!!!!! master test
+!!!!!!! hot-fix test
